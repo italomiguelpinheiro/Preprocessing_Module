@@ -9,4 +9,12 @@ Preprocessing steps:
   6. Lemming
   7. Stemming
   8. Remove Stop Words
-  
+ 
+ # Supported languages
+  1. English
+  2. Spanish
+  3. Portuguese
+  4. French
+  5. Japanese
+  6. Chinese
+  7. Korean
